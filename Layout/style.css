@@ -1,0 +1,69 @@
+body {
+    margin: 0 auto;
+}
+main {
+    display: block;
+}
+.caja-principal {
+    border: 5px solid #FF0000;
+    position: absolute;
+    width: 1278px;
+    height: 790px;
+    box-sizing: border-box;
+
+}
+.contenido-principal2 {
+    border: 5px solid rgb(4, 0, 255);
+    box-sizing: border-box;
+}
+.contenido-principal3 {
+    border: 5px solid #74E6FF;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    position: absolute;
+    width: 1267px;
+    height: 619px;
+    box-sizing: border-box;
+    
+}
+
+aside {
+    border: 5px solid rgb(221, 0, 255);
+    width: 1267px;
+    box-sizing: border-box;
+    height: 150px;
+    text-align: center;
+}
+.caja1 {
+    border: 5px solid rgb(78, 247, 0);
+    text-align: center;
+    box-sizing: border-box;
+}
+.caja2 {
+    border: 5px solid rgb(212, 103, 0);
+    width: 867px;
+    height: 135px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.caja3 {
+    border: 5px solid rgb(247, 0, 238);
+    width: 867px;
+    height: 454px;
+    box-sizing: border-box;
+
+}
+header {
+    line-height: 141px;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+article {
+    margin: 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    line-height: 25Px;
+    box-sizing: border-box;
+
+}
